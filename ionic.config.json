@@ -1,0 +1,7 @@
+{
+  "name": "ZMMDownloader",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
